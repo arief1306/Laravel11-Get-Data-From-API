@@ -8,6 +8,7 @@ This project will demonstrate my method of fetching API data in Laravel and Show
 ## API Reference
 <b>CoinDesk</b>
 View the Bitcoin Price Index (BPI) in real-time.
+<br>
 API URL : https://api.coindesk.com/v1/bpi/currentprice.json
 
 
